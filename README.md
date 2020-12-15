@@ -1,6 +1,6 @@
 ### Hi there! 🤘
 
-😄 My name is Lucas Correia from São Paulo, Brazil (🇧🇷). I've been working as Front-End Developer since 2019 and open source projects, is becoming a passion. I develop solutions in the form of software using my creativity and my technical knowledge in JavaScript.
+😄 My name is Lucas Correia from São Paulo, Brazil <img width="16px"  src="https://user-images.githubusercontent.com/59120094/102106566-80b96f80-3e0f-11eb-8fa3-5248a34b61e3.png"></img>. I've been working as Front-End Developer since 2019 and open source projects, is becoming a passion. I develop solutions in the form of software using my creativity and my technical knowledge in JavaScript.
 
 ❤️ I love building interfaces and web applications with React that is not only beautiful, but pleasant to use and really problem solving.
 
